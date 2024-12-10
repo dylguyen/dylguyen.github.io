@@ -5,7 +5,7 @@ I am a computer science major at CFUS and I plan on graduating in 2028.
 ## Favorite CPSC 120L Labs
 
 Lab 6, part 2
-This lab was a fun one because it felt like a true test to my basic knowledge of if statements and bools. Making a game as simple as blackjack that works made it feel very rewarding. Of course, it’s not an actual game of blind blackjack since we know the numbers beforehand, but it’s still very cool to see it all work out. Logic as simple as this is fun to figure out because it feels like a puzzle you can work out if you say the code very slowly. I enjoyed this one far better than the parking signs one.
+This lab was a fun one because it felt like a true test to my basic knowledge of if statements and bools. Making a game as simple as blackjack that works made it feel very rewarding. Of course, it’s not an actual game of blind blackjack since we know the numbers beforehand, but it’s still very cool to see it all work out. Logic as simple as this is fun to figure out because it feels like a puzzle you can work out if you say the code very slowly. I enjoyed this one far better than the parking signs lab one.
 
 Lab 9, part 1
 I’m going to include this one as a small “honorable mention” because I did part 1 with my partner but somehow my code never pushed to GitHub so now part 1 is still empty and I don’t remember how to do it. But, from what I can recall, it was satisfying figuring the code out when we had it all down. Reading it and being able to realize exactly how the code works was mind blowing; seeing how . I nearly felt like a genius figuring it out but unfortunately, all that work is gone and the genius I once was could not replicate it in time.
