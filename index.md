@@ -1,6 +1,6 @@
 # Dylan Nguyen's Portolio
 
-I am a computer science major at CFUS and I plan on graduating in 2028.
+I am a computer science major at CFUS and I plan on graduating in 2028. My GitHub profile is: https://github.com/dylguyen
 
 ## Favorite CPSC 120L Labs
 
@@ -10,7 +10,7 @@ This lab was a fun one because it felt like a true test to my basic knowledge of
 
 *Lab 9, part 1
 
-I’m going to include this one as a small “honorable mention” because I did part 1 with my partner but somehow my code never pushed to GitHub so now part 1 is still empty and I don’t remember how to do it. But, from what I can recall, it was satisfying figuring the code out when we had it all down. Reading it and being able to realize exactly how the code works was mind blowing; seeing how . I nearly felt like a genius figuring it out but unfortunately, all that work is gone and the genius I once was could not replicate it in time.
+I’m going to include this one as a small “honorable mention” because I did part 1 with my partner but somehow my code never pushed to GitHub so now part 1 is still empty and I don’t remember how to do it. But, from what I can recall, it was satisfying figuring the code out when we had it all down. Reading it and being able to realize exactly how the code works was mind blowing; see how doubly linked lists worked was very cool to work out. I nearly felt like a genius figuring it out but unfortunately, all that work is gone and the genius I once was could not replicate it in time.
 
 *Lab 11, part 1
 
@@ -18,4 +18,4 @@ The second lab (that is complete with an actual push to GitHub) that I enjoyed w
 
 *Lab 12, part 2
 
-The most recent lab was probably the one with the best product so far. Seeing the animated image afterwards was crazy because it was like “I made that!” Granted, this lab didn’t actually teach me a lot since it was a lot of copy and pasting, however, being introduced to the fact that we can make animations from VS Code and the terminal is something I didn’t know we could even do. I will definitely be using this code to print out more words.
+The most recent lab was probably the one with the best product so far. Seeing the animated image afterwards was crazy because it was like “I made that!” Granted, this lab didn’t actually teach me a lot besides the use of class variables since it was a lot of copy and pasting, however, being introduced to the fact that we can make animations from VS Code and the terminal is something I didn’t know we could even do. I will definitely be using this code to print out more words.
